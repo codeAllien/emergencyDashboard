@@ -50,7 +50,7 @@ npm install electron --save-dev
 npm run start:electron
 ```
 ## Important:
-##  Important: to find the project, due to GitHub size limit, I put that on the Box under:
+##  Important: to find the project, due to GitHub size limit, see
 ### https://ibm.ent.box.com/folder/111683426682
 
 ## Author:
