@@ -49,9 +49,9 @@ npm install electron --save-dev
 ```
 npm run start:electron
 ```
-
+# Important:
 ## To find the project, due to GitHub size limit, I put that on the Box under:
 ### https://ibm.ent.box.com/folder/111683426682
 
-## Author:
-⋅⋅* Giulia Gallico - codeAllien
+# Author:
+* Giulia Gallico - [codeAllien](https://github.com/codeAllien)
